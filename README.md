@@ -1,2 +1,2 @@
-# minhdmh123.github.io
-My personal 
+# minhdmh123.github.io 
+Learning GitHub is fun.
